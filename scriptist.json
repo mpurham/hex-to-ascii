@@ -1,0 +1,24 @@
+{
+	"name": "Hex To ASCII",
+	"description": "Converts hex into ASCII characters.",
+	"version": "1.0.0",
+	"tags": [
+		"hex",
+		"ascii",
+		"convert"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "aWZHY0yQH81uOYvH"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/hex-to-ascii"
+		}
+	]
+}
